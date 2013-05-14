@@ -2,8 +2,8 @@
 ==============
  
 Материалы, использованные для создания класса
-[x]http://abtester.com/calculator/
-[x]http://visualwebsiteoptimizer.com/split-testing-blog/ab-testing-significance-calculator-spreadsheet-in-excel/
+- http://abtester.com/calculator/
+- http://visualwebsiteoptimizer.com/split-testing-blog/ab-testing-significance-calculator-spreadsheet-in-excel/
  
 Пример Использования
 ==============
